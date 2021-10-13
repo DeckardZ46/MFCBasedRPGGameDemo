@@ -3,6 +3,9 @@ Southeast University School of Software
 
 short semester project 2018
 
+REMEMBER TO SET UP MFC ENVIRONMENT BEFORE LAUNCHING.
+
+## Game instructions
 
 It's an RPG game demo based on MFC framework. 
 
