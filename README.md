@@ -12,6 +12,12 @@ J for attacking
 
 K for reloading
 
+U for store window(only could be opened when standing by the store)
+
+I for item window
+
+O for character window
+
 
 Deckard Zhao 
 04/2018
