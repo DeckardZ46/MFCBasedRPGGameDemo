@@ -1,0 +1,47 @@
+﻿  stdafx.cpp
+  BagDlg.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  Bullet.cpp
+  BusinessManDlg.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  CharacterDlg.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  ChildView.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1320): warning C4018: “<”: 有符号/无符号不匹配
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1409): warning C4018: “<”: 有符号/无符号不匹配
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1578): warning C4018: “<”: 有符号/无符号不匹配
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1627): warning C4018: “<”: 有符号/无符号不匹配
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1641): warning C4018: “<”: 有符号/无符号不匹配
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(1652): warning C4018: “<”: 有符号/无符号不匹配
+  ChooseOcc.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\chooseocc.cpp(88): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\chooseocc.cpp(93): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\chooseocc.cpp(98): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Hero.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  Item.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  MainFrm.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  Monster.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  MyRPG.cpp
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\resource.h(12): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10818): note: 参见“IDCANCEL”的前一个定义
+  正在生成代码...
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(647): warning C4715: “CChildView::CanPass”: 不是所有的控件路径都返回值
+d:\things\code_work\mycodes\vs2017_docs\myfirstrpg\myrpg_21\myrpg\childview.cpp(692): warning C4715: “CChildView::CanPass”: 不是所有的控件路径都返回值
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\winuser.rh(1434): warning RC4005: 'IDCANCEL' : redefinition
+  
+  MyRPG.vcxproj -> D:\Things\Code_Work\MyCodes\VS2017_docs\MyFirstRPG\MyRPG_21\Debug\MyRPG.exe
