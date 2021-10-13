@@ -15,7 +15,7 @@ J for attacking
 
 K for reloading
 
-U for store window(only could be opened when standing by the store)
+U for shopping window(only could be opened when standing by businessman)
 
 I for item window
 
