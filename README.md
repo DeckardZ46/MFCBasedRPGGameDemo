@@ -3,7 +3,7 @@ Southeast University School of Software
 
 short semester project 2018
 
-REMEMBER TO SET UP MFC ENVIRONMENT BEFORE LAUNCHING.
+REMEMBER TO SET UP MFC DEV KITS BEFORE LAUNCHING.
 
 ## Game instructions
 
